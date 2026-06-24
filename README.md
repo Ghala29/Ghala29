@@ -3,7 +3,7 @@
 Saat ini saya sedang belajar **Automation Testing** untuk mendalami bidang Quality Assurance. Saya fokus mempelajari bagaimana memastikan kualitas kode berjalan dengan baik melalui pengujian otomatis yang efisien, andal, dan terintegrasi dalam alur CI/CD.
 
 
-### 🚀 Proyek & Jalur Belajar (My QA Playlists)
+### 🚀 My QA Playlists
 Saya mengelompokkan proyek-proyek saya ke dalam beberapa kurasi daftar (playlist) agar lebih mudah dipelajari:
 
 * **🧪 [SanberCode - Quality Assurance Automation](https://github.com/stars/Ghala29/lists/sanbercode)**
